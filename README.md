@@ -81,9 +81,13 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado:
+    [https://github.com/fastapi/fastapi](https://github.com/fastapi/fastapi)
 
+2. Gráfico selecionado:
 
+    ![](./loc-fastapi.png)
 
+3. Explicação: O gráfico selecionado mostra a evolução do número total de linhas de código (LOC) do repositório do FastAPI ao longo dos anos, evidenciando um crescimento contínuo até 2025, seguido por uma redução considerável no último ano. Embora um decréscimo de LOC pudesse sugerir estagnação, a análise conjunta com o gráfico de _"Functions and Classes"_ refuta essa hipótese, uma vez que o número de definições de funções e de classes continua aumentando. Esse comportamento sugere uma fase de refatoração estratégica do código, na qual trechos redundantes são eliminados e a complexidade é melhor distribuída. Como resultado, observa-se a criação de componentes menores e mais coesos, reduzindo a densidade do sistema sem comprometer a evolução das funcionalidades. Essa conclusão é reforçada pelo histórico recente de _commits_, que indica um certo esforço de manutenção do repositório, embora uma análise mais aprofundada ainda seja necessária para confirmar esse fenômeno.
+
+    ![](./functions-and-classes-fastapi.png)
